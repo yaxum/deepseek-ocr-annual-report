@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF
+pillow
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+deepseek-ocr  # Från git
+pandas
